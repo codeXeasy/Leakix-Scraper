@@ -26,7 +26,7 @@ Prepare a file containing keywords or domains you want to search for.
 
 Run the script:
 
-python scraper.py
+python leakix.py
 The script will:
 
 Read keywords from the specified file.
